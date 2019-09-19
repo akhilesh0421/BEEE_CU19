@@ -1,7 +1,7 @@
 void setup()
 {
-  pinMode(4,INPUT);
-  pinMode(7,OUTPUT);
+  pinMode(4,INPUT);//Pin number is used to read the switch.
+  pinMode(7,OUTPUT);//Pin number 7 is used to give instruction to buzzer.
 }
 
 void loop()
