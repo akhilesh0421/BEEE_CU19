@@ -1,6 +1,6 @@
 void setup()
 {
-  pinMode(7, OUTPUT);//Pin number 7 is conneted to LED and it is used for output purpose.
+  pinMode(7, OUTPUT);//Pin number 7 is conneted to LED and it is used as output mode pin.
 }
 
 void loop()
