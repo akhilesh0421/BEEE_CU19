@@ -21,4 +21,4 @@ Precautions that one should take while doing his project are given below:
 
 **Learning Outcomes**:
 
-Trough this experiment I came to learn about the Arduino board and working of it. Before doing this experiment whenever I had seen a LED glowing in a perticular pattern as I thougt of while making the connections and writing the code.
+Trough this experiment I came to learn about the Arduino board and working of it. After doing this experiment I saw the LEDs glowing in a perticular pattern as I thougt of while making the connections and writing the code.
