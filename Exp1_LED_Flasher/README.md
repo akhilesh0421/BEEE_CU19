@@ -22,4 +22,4 @@ Precautions that one should take while doing his project are given below:
 
 **Learning Outcomes**:
 
-Trough this experiment I came to learn about the Arduino board and working of it. Before doing this experiment whenever I had seen a LED flasher I was always wondering how it works. But now as I gone through this experiment I know how it works. Now I can also do more advance thing by writing programs which are way easier than I thought.
+Trough this experiment I came to learn about the Arduino board and working of it. Now as I gone through this experiment I know how it works. Now I can also do more advance thing by writing programs which are way easier than I thought.
