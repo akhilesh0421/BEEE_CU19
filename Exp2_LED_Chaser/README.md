@@ -5,11 +5,10 @@ The entire circuit is build in the concept of input-output and voltage supply. I
 
 **Learning & Observation**:
 
-After doing this experiment I became familiar with circuit boards and Arduino programming. Now I can distinguish between the input and output pins of a board easily. And make some patterns by using Arduino programming. I also observed that how a simple change in code can affect the blinking of the LED.
-
+After doing this experiment I became familiar with circuit boards and Arduino programming. Now I can distinguish between the input and output pins of a board easily. And make some patterns by using Arduino programming. I also observed that how a simple change in code can affect the Glowing pattern of LEDs.
 **Problem Troubleshooting**:
 
-Wrong connections caused trouble. Re-examine the connections and code to overcome the trouble.
+Wrong connections caused trouble. Re-examined the connections and code to overcome the trouble.
 
 **Precautions**:
 
