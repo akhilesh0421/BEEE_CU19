@@ -10,7 +10,7 @@ UltraSonic Distance Sensor is used. Ultrasonic distance sensor determines the di
 
 **Learning & Observation**:
 
-After doing this experiment I became familiar with circuit boards. Now I can distinguish between the input and output pins of a board easily. I also observed that how a simple change in code can affect the blinking of the LED.
+Ultrasonic sensors work by emitting sound waves at a frequency too high for humans to hear. They then wait for the sound to be reflected back, calculating distance based on the time required. This is similar to how radar measures the time it takes a radio wave to return after hitting an object.
 
 **Problem Troubleshooting**:
 
