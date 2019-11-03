@@ -1,7 +1,7 @@
 # BEEE LED Flasher
 **Concept Used**:
 
-The entire circuit is build in the concept of input and output. I give an input and according to it the circuits gives an output in the form of flashing of LED. The LED flashes according to the instruction uploaded in the Arduino board. The board is equipped with sets of digital and analog input and output pins. All the instruction executed by the board are given to it using a program written in Arduino programming language.
+The entire circuit is build in the concept of input and output. All the instruction executed by the Arduino are given to it using a program written in Arduino programming language.
 UltraSonic Distance Sensor is used. Ultrasonic distance sensor determines the distance to an object by measuring the time taken by the sound to reflect back from that object. The frequency of the sound is somewhere in the range of ultrasound, this ensures more concentrated direction of the sound wave because sound at higher frequency dissipates less in the environment. A typical ultrasonic distance sensor consists of two membranes. One membrane produces sound, another catches reflected echo. Basically they are speaker and microphone.
 
 **Learning & Observation**:
