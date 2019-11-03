@@ -1,4 +1,9 @@
 # BEEE LED Flasher
+
+**Circuit Diagram**:
+
+[Exp1!](https://github.com/akhilesh0421/BEEE_CU19/blob/master/png/LED%20Flasher.png)
+
 **Concept Used**:
 
 The entire circuit is build in the concept of input and output. I give an input and according to it the circuits gives an output in the form of flashing of LED. The LED flashes according to the instruction uploaded in the Arduino board. The board is equipped with sets of digital and analog input and output pins. All the instruction executed by the board are given to it using a program written in Arduino programming language. For This experiment I use digital pin 7 as output. The positive terminal of the LED is connected to the digital pin 7 and the negative terminal is connected to the ground of the Arduino board.
