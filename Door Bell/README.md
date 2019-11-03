@@ -1,7 +1,7 @@
 # BEEE Door Bell
 
 **Circuit Diagram**:
-![Exp4](https://github.com/akhilesh0421/BEEE_CU19/blob/master/Exp3_Door_Bell/Door%20Bell.png?raw=true)
+![Exp4](https://github.com/akhilesh0421/BEEE_CU19/blob/master/png/Door%20Bell.png?raw=true)
 
 
 **Concept Used**:
