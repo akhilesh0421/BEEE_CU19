@@ -1,4 +1,9 @@
 # BEEE LED Chaser
+
+**Circuit Diagram**:
+
+![Exp2](https://github.com/akhilesh0421/BEEE_CU19/blob/master/png/LED%20Chaser.png)
+
 **Concept Used**:
 
 The entire circuit is build in the concept of input-output and voltage supply. I give an input and according to it the circuits gives an output in the form of glowing of LED in a perticular pattern. The LED glows according to the instruction uploaded in the Arduino board. The board is equipped with sets of analog and digital input-output pins. All the instruction executed by the board are given to it using a program written in Arduino programming language. For This experiment I use digital pin 3, 4, 6 & 7 as output. The positive terminal of the LEDs are connected to these digital pin respectively and the negative terminal is connected to the ground of the Arduino board.
