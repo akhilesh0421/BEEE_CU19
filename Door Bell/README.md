@@ -1,4 +1,9 @@
 # BEEE Door Bell
+
+**Circuit Diagram**:
+![Exp4](https://github.com/akhilesh0421/BEEE_CU19/blob/master/Exp3_Door_Bell/Door%20Bell.png?raw=true)
+
+
 **Concept Used**:
 
 The entire circuit is build in the concept of input-output and voltage supply. I give an input and according to it the circuits gives an output in the form of buzzing of buzzer when the button is pressed. Here the concept of common ground came into more uses. The board is equipped with sets of analog and digital input-output pins. All the instruction executed by the board are given to it using a program written in Arduino programming language. For This experiment I use digital pin 2 & 7 as output along with 5V supply pin. The positive terminal of the buzzer is connected to these digital pin 7 through a resistor of 100Ω(optional) and the negative terminal is connected to the ground of the Arduino board. Switch is connected with 5V power supply pin and other end of switch is connected to digital pin 2 and ground through a resistor of some resistance.
