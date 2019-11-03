@@ -2,7 +2,7 @@
 
 **Circuit Diagram**:
 
-[Exp1!](https://github.com/akhilesh0421/BEEE_CU19/blob/master/png/LED%20Flasher.png)
+![Exp1](https://github.com/akhilesh0421/BEEE_CU19/blob/master/png/LED%20Flasher.png)
 
 **Concept Used**:
 
