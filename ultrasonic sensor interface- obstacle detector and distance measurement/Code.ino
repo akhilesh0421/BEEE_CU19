@@ -1,6 +1,6 @@
 //Programming of Arduino Uno for Obstacle Detector And Distance Measuring Device.
-const int trig = 10;
-const int echo = 9;
+const int trig = 2;
+const int echo = 1;
 long duration;
 int distance;
 
