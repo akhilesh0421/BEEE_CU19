@@ -1,5 +1,5 @@
 # BEEE LED Flasher
-(https://github.com/akhilesh0421/BEEE_CU19/blob/master/ultrasonic%20sensor%20interface-%20obstacle%20detector%20and%20distance%20measurement/UltraSonic%20Distance%20Sensor.png)
+![Exp6](https://github.com/akhilesh0421/BEEE_CU19/blob/master/ultrasonic%20sensor%20interface-%20obstacle%20detector%20and%20distance%20measurement/UltraSonic%20Distance%20Sensor.png)
 
 **Concept Used**:
 
