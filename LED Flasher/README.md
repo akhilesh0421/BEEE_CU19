@@ -1,4 +1,4 @@
-# BEEE LED Flasher
+# LED Flasher
 
 **Circuit Diagram**:
 
