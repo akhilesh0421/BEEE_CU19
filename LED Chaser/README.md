@@ -1,4 +1,4 @@
-# BEEE LED Chaser
+# LED Chaser
 
 **Circuit Diagram**:
 
