@@ -1,4 +1,4 @@
-const int ledPin = 4;
+const int ledPin = 7;
 const int ldrPin = A0;
 
 void setup() {
