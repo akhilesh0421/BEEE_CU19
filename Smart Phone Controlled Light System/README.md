@@ -3,13 +3,21 @@
 **Aim:**
 
 To design a Smart Phone controlled LED such that when we push the ON button on our Smart Phone APP, the LED starts glowing and when we push the OFF button, the LED stops glowing.
-Apparatus:
+
+**Apparatus:**
+
 Arduino Board, LED, Resistance - 220ohm, Breadboard, Wires, Bluetooth Module.
-Circuit Diagram:
- 
-Theory:
-Concepts Used -
-LEDs:
+
+**Circuit Diagram:**
+
+
+
+**Theory:**
+
+***Concepts Used -***
+
+****LEDs:****
+
 An LED is a small light (it stands for "light emitting diode") that works with relatively little power. The Arduino board has one built-in on digital pin 13. An external LED can also be used by specifying the pin number it is using on the Arduino. In electronics, polarity indicates whether a circuit component is symmetric or not. LEDs, being diodes, will only allow current to flow in one direction. And when there’s no current- flow, there’s no light. The positive side of the LED is called the “anode” and is marked by having a longer “lead,” or leg. The other, negative side of the LED is called the “cathode.” Current flows from the anode to the cathode and never the opposite direction. A reversed LED can keep an entire circuit from operating properly by blocking current flow. So don’t freak out if adding an LED breaks your circuit. Try flipping it around.
 Bluetooth - HC5:
 => For the communication between mobile and microcontroller, Bluetooth module (HC-5) is used.
