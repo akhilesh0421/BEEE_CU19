@@ -1,4 +1,4 @@
-# BEEE Door Bell
+# Push-Button Door Bell
 
 **Circuit Diagram**:
 ![Exp4](https://github.com/akhilesh0421/BEEE_CU19/blob/master/png/Door%20Bell.png?raw=true)
