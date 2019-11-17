@@ -10,7 +10,7 @@ Arduino Board, LED, Resistance - 220ohm, Breadboard, Wires, Bluetooth Module.
 
 **Circuit Diagram:**
 
-
+![Exp4](https://github.com/akhilesh0421/BEEE_CU19/blob/master/png/led_smartphone.jpg?raw=true)
 
 **Theory:**
 
@@ -20,13 +20,13 @@ An LED is a small light (it stands for "light emitting diode") that works with r
 
 *Bluetooth - HC5:*
 
-=> For the communication between mobile and microcontroller, Bluetooth module (HC-5) is used.
+1. For the communication between mobile and microcontroller, Bluetooth module (HC-5) is used.
 
-=> Low Power 1.8V operation, 1.8 to 3.6V input output 
+2. Low Power 1.8V operation, 1.8 to 3.6V input output 
 
-=> Serial port Bluetooth module have a Bluetooth 2.0+EDR (Enhanced Data Rate), 3Mbps modulation with complete 2.4GHz radio transceiver and baseband.
+3. Serial port Bluetooth module have a Bluetooth 2.0+EDR (Enhanced Data Rate), 3Mbps modulation with complete 2.4GHz radio transceiver and baseband.
 
-=> Using Bluetooth profile and android platform architecture different type of Bluetooth applications can be developed.\
+4. Using Bluetooth profile and android platform architecture different type of Bluetooth applications can be developed.\
 
 *Learning and Observations -*
 
